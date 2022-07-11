@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85552554-f5b1-4eac-9c2c-54e7ea46a3bc" name="Changes" comment="Added first yaml file">
+    <list default="true" id="85552554-f5b1-4eac-9c2c-54e7ea46a3bc" name="Changes" comment="Added new yaml file">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -56,12 +66,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/demo-workflow" />
-                    <option name="lastUsedInstant" value="1657476457" />
+                    <option name="branchName" value="feature/ci-step" />
+                    <option name="lastUsedInstant" value="1657476621" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1657476244" />
+                    <option name="lastUsedInstant" value="1657476606" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/demo-workflow" />
+                    <option name="lastUsedInstant" value="1657476457" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -90,6 +104,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.github/workflows" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github/workflows" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -184,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657476518711</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new yaml file">
+      <created>1657476676231</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657476676231</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +232,7 @@
     <MESSAGE value="Init develop" />
     <MESSAGE value="Fixed workspace.xml file conflicts" />
     <MESSAGE value="Added first yaml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first yaml file" />
+    <MESSAGE value="Added new yaml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new yaml file" />
   </component>
 </project>
